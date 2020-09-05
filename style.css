@@ -18,3 +18,7 @@ h2 {
     font-size: 1em;
 }
 
+li {
+    list-style-type: none;
+}
+
