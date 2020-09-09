@@ -2,6 +2,8 @@ body {
     background-color: #faf2e4;
     margin: 5% 10%;
     font-family: sans-serif;
+    font-size: 1.4rem;
+    line-height: 1.5;
 }
 
 h1 {
